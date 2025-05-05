@@ -6,4 +6,4 @@
 
 ---
 This repository holds my React+Vite To Do List app, which allows a user to manage their to do list by adding and removing tasks.
-It can be used from the Github Pages deployment at snisenberg.github.io/to-do-app/
+It can be used from the [Github Pages deployment](https://snisenberg.github.io/to-do-app/).

@@ -5,4 +5,4 @@
 #### May 5, 2025
 
 ---
-This is my React To Do List App, which allows the user to mnage their to do list by adding and removing tasks.
+This is my React To Do List App, which allows the user to manage their to do list by adding and removing tasks.
